@@ -1,0 +1,9 @@
+.container {
+    margin: 3rem auto;
+    max-width: 600px;
+    /* color: blue; */
+  }
+
+.container .h1 {
+    color: green;
+}

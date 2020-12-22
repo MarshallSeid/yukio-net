@@ -1,0 +1,63 @@
+html {
+    background-color: lavenderblush;
+    padding: 5%;
+  }
+
+  img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+  }
+  
+
+  .jheader {
+    font-weight: normal;
+          font-size: 1.75em;
+    letter-spacing: .2em;
+    line-height: 1.1em;
+    margin:0px;
+    text-align: center;
+    padding-top:20px;
+
+    text-transform: uppercase;
+  }
+
+
+  .jsubheader {
+    font-weight: normal;
+          font-size: .75em;
+    letter-spacing: .1em;
+    line-height: 1.1em;
+    margin:0px;
+    text-align: center;
+    text-transform: uppercase;
+    padding-bottom: 20px;
+  }
+
+  p { 
+    color: #4c4a37;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    padding-bottom: 15px;
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+
+  a{
+    color: #4c4a37;
+  }
+
+  .blockquote {
+    background: #f9f9f9;
+    border-left: 10px solid #ccc;
+    margin: 1.5em 10px;
+    padding: 0.5em 10px;
+    quotes: "\201C""\201D""\2018""\2019";
+  }
+  .textblock {
+    font-family: 'Cardo', serif;
+
+
+  }
