@@ -58,20 +58,18 @@ html {
     /* padding-right: 40px; */
   }
 
-
-  a{
-    color: #4c4a37;
-  }
-
-
   .lightp { 
-    color: #ffffff;
+    color: #6e6c62;
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 16px;
     line-height: 24px;
     padding-bottom: 15px;
     /* padding-left: 40px; */
     /* padding-right: 40px; */
+  }
+
+  a{
+    color: #4c4a37;
   }
 
   .blockquote {
@@ -144,8 +142,8 @@ html {
 
   .center_solo_text {
     padding-top: 50px;
-    padding-right:8%;
-    padding-left:8%;
+    padding-right:6%;
+    padding-left:6%;
   }
 
   .center_solo_text_narrow {
@@ -173,7 +171,11 @@ html {
     width: auto;
     max-height: 80vh !important; 
   }
-
+  .single-photo-no-flex {
+    justify-content: center;
+    width: 60%;
+    max-height: 50vh !important; 
+  }
 
   .full-page-photo {
     justify-content: center;

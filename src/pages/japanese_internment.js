@@ -17,6 +17,8 @@ const fullpageOptions = {
         "#e9bb9a",
         "#e9bb9a",
         "#edc9af",
+        "#edc9af",
+        "#edc9af",
         "#edc9af", // 10
         "#e4ad85",
         "#e4ad85",
@@ -64,7 +66,7 @@ const FullpageWrapper = fullpageProps => (
                         <div className="jheader">Japanese Internment Exhibit</div>
                         <div className="center_solo_text">
                         <p>
-                            The United States Government between 1942 and 1946, forced the internment of 120,000 Japanese Americans into desert prison camps within the United States without due process. Of those imprisoned, 2/3rds had <b> United States citizenship</b>, while the rest were ineligible for citizenship under US law at the time. Most were forced to sell homes, family plots, and were only allowed to take what they could carry.
+                                The United States Government between 1942 and 1946, forced the internment of 120,000 Japanese Americans into desert prison camps within the United States without due process. Of those imprisoned, two-thirds had <b> United States citizenship</b>, while the rest were ineligible for citizenship under US law at the time. Most were forced to sell their homes, family plots, and were only allowed to take what they could carry.
                     </p>
 
                         </div>
@@ -80,24 +82,26 @@ const FullpageWrapper = fullpageProps => (
                         </div>
                     </div>
 
+
                     <div className="section fp-auto-height-responsive">
                         <div className="jheader">Deciding the Fate of Japanese Americans</div>
+                        <div class="center_solo_text">
+                        <p>
+                            In 1941 US Intelligence report "Munson Report" commissioned by President Franklin Roosevelt concluded that the great majority of Japanese Americans are loyal to the U.S. and do not pose a threat to national security in the event of war with Japan. The report was passed to Roosevelt noting that, "The essence of what [Munson] has to report is that, to date, he has found no evidence which would indicate that there is danger of widespread anti-American activities among this population group. He feels that the Japanese are more in danger from the whites than the other way around."
+                        </p>
+                        <p>
+                                A year after, in the aftermath of Pearl Harbor attacks, Roosevelt issued Executive Order 9066, which authorized the exclusion of any and all persons from coastal regions. Executive orders are used by the president of the US that remain in force until they are cancelled, revoked, adjudicated, expire or determined unlawful. Even though it did not specify the Japanese by name, it was quickly applied to virtually all Japanese Americans living in the border regions of California, Oregon, Arizona, and Washington. The US carried out the exclusion and forced removal of all persons of Japanese ancestry into the internment camps. These internment camps were akin to prison camps, surrounded with armed guards and barbed wire. Colonel Karl Bendetsen, the architect behind the program, went so far as saying that anyone with "one drop of Japanese blood" qualified.
+                        </p>
+                    </div>
+                    </div>
+
+                    <div className="section fp-auto-height-responsive">
                         <section class="single-photo">
                             <img src={'../../drseuss.jpg'} alt="Image from Dr. Seuss" />
                         </section>
                         <div className="caption">Japanese propaganda by Geisel Seuss.</div>
                     </div>
 
-                    <div className="section fp-auto-height-responsive">
-                        <div class="center_solo_text">
-                        <p>
-                            In 1941 US Intelligence report "Munson Report" commissioned by President Franklin Roosevelt concluded that the great majority of Japanese Americans are loyal to the U.S. and do not pose a threat to national security in the event of war with Japan. The report was passed to Roosevelt noting that, "The essence of what [Munson] has to report is that, to date, he has found no evidence which would indicate that there is danger of widespread anti-American activities among this population group. He feels that the Japanese are more in danger from the whites than the other way around."
-                        </p>
-                        <p>
-                                A year after, in the aftermath of Pearl Harbor attacks, Roosevelt issued Executive Order 9066, which authorized the exclusion of any and all persons from coastal regions. Executive orders are used by the president of the US that remain in force until they are canceled, revoked, adjudicated, expire or determined unlawful. Even though it did not specify the Japanese by name, it was quickly applied to virtually all Japanese Americans living in the border regions of California, Oregon, Arizona, and Washington. The US carried out the exclusion and forced removal of all persons of Japanese ancestry into the internment camps. These internment camps were akin to prison camps, surrounded with armed guards and barbed wire. Colonel Karl Bendetsen, the architect behind the program, went so far as saying anyone with "one drop of Japanese blood" qualified.
-                        </p>
-                    </div>
-                    </div>
 
                     <div className="section fp-auto-height-responsive">
                         <div className="jheader">Taken From their Homes</div>
@@ -105,7 +109,7 @@ const FullpageWrapper = fullpageProps => (
                             <div class="item-1">
                                 <p>  It was 1942 when Hideyuki Nakamura at 11 years old, watched on as the local constable entered his house, and took away his father and his uncle from him. Soon after, the rest of the family had to abandon their home in Reedley, California, and "relocate". Several months later, Agnes Nishida, at 8 years old, alongisde her family, would also be sent to the internment camps.</p>
                                 <p>
-                                    They had no idea where they were going, or when, if ever, they would be allowed to return. All they knew was that they were only allowed to take what they could carry.
+                                    They had no idea where they were going, or when, if ever, they would be allowed to return. All they knew was that they were leaving, and they could only take what they could carry.
                         </p>
                             </div>
                             <div class="audioitem">
@@ -124,7 +128,7 @@ const FullpageWrapper = fullpageProps => (
                                 In the months following Executive Order 9066, Japanese Americans were first sent to "assembly centers", which were often horse race tracks or fairgrounds where they were kept until they were sent to internment camps. They had not had any charges of disloyalty, nor were they able to appeal for their loss of property and personal liberty.
                         </p>
                         <p>
-                            Helen Abe was 8 years old when the FBI had tried to take away Helen's mother because she was a school teacher, and place her into the Crystal City internment camp in Texas. They ended up sending the two of them to the Santa Anita racetrack in California. "We had to live in the horse stalls... They just laid the asphalt right over the poop, everything. It was so hot the legs of the bed would sink in. The smell would really come up from below... We stayed there for 6 months. About 2 months in the horse stalls... Then they built some barracks in the middle of the racetrack. Japanese volunteers would make the food. The grandstands were used for making camoflage nets."
+                                Helen Abe was 8 years old when the FBI had tried to take away Helen's mother because she was a school teacher, and place her into the Crystal City internment camp in Texas. They ended up sending the two of them to the Santa Anita racetrack in California.  Sam Morris described his experience at the Santa Anita racetrack with his family of 7 as, "We had to live in the horse stalls... They just laid the asphalt right over the poop, everything. It was so hot the legs of the bed would sink in. The smell would really come up from below... We stayed there for 6 months. About 2 months in the horse stalls... Then they built some barracks in the middle of the racetrack. Japanese volunteers would make the food. The grandstands were used for making camouflage nets."
                          </p>
                             <div class="audioitem">
                                 <Jplayer src='../../horse_stall_relocation.m4a' />
@@ -141,24 +145,26 @@ const FullpageWrapper = fullpageProps => (
                     <div className="section fp-auto-height-responsive">
 
                         <div className="jheader">Internment Camps</div>
-                        <section class="grid-text-left">
+                        <div className="jsubheader">Remaking home.</div>
                             <div class="center_solo_text">
-                        <p>
-                                    Hideyuki and his family were sent to Poston, Arizona, to live in Block 308, a barrack insulated with light tar paper, the size of a small garage for the entire family of 10 people. He remembers stuffing sheets with straw to use as mattresses, and other times that he and his siblings would sleep outside on the ground.
-                        </p>
-                        <p>
-                            When we walked to school we would collect adobe on the bottom of our shoes, we would get a little taller. We saw movies once a week. THey would put a fairly large building on the building that held Oil tank. I guess the federal government provided for that. In the wintertime, some people would build little charcoal tin cans, fill them with charcoal and keep them warm. We used to see movies that way. Eventually, in our camp they build an amphitheatre. They would have the projector showing a big screen for everybody to see movies, outdoors. Everyone bundles up in the winter, summertime is no problem, they would use a lot of little burners. Almost all the movies at the time were black and white, technicolor movies were in the future. White Christmas came up with Bing Crosby, it was winter time when it came out. They had dances in the mess hall. We didn't dance until the last year there, up until then we would watch.
-                            // Their guns were always pointed in at us.
-                        </p>
-                        <p>
-                                    Sam Morris "The chickens were living better than us. We put thick pink paper that we ordered from Montegory Ward. It helped keep the dust out in Tule. We had scorpions coming through. Non insulated. We had 2 rooms of 7 people. Arkansas was very humid. When it rained it would rain like you wouldn't believe."
-                        </p>
-
+                                <p>
+                                Hideyuki, Agnes, and their families were incarcerated in Poston, Arizona, which was occcupied by 18,000 internees. The families lived in barracks insulated with light tar paper, the size of a small garage meant for the entire family of 10 people.
+                                </p>
+                                <p>
+                                "The barracks had bare walls. We had an oil stove, that was the heating, and what we had to do is separate the barrack in half so we have the sleeping quarters on one side and the living room on the other, if you want to call it a living room, it was nothing, maybe a table. We used to hear stories about scorpions coming in, because it was Arizona, we saw some, but not in our apartment. We were overcrowded, in fact, some of us slept outside. The first order of the day after unloading our luggage was to go to the area where they had straw and a cover for a mattress, we stuffed it with straw and that became our mattress.”
+                                </p>
+                                <p>
+                                "We had 3 meals a day. We couldn't have fancy food, we were lucky to have mutton, people hated it. They made a lot of okazu: cut up meat, zuccini or any kind of veggie, throws it in a pan, maybe some sugar and soy sauce for flavor, then serves it to the family. That's okazu." Hideyuki's mother, "who had always had a delicate constiuttion, could not tolerate the camp food and became ill", and passed away two years after they entered into the camp.
+                                </p>
+                            <p>
+                                "We didn't pay much attention to the watch towers, but we noticed that even though they were meant to protect us, their guns were always pointed in at us."
+                                </p>
+                            <div class="audioitem">
+                                <Jplayer src='../../privacy_bathroom.m4a' />
                             </div>
-                        </section>
-                        
-                    </div>
 
+                        </div>
+                    </div>
 
                     <div className="section fp-auto-height-responsive">
                         <section class="single-photo">
@@ -170,12 +176,44 @@ const FullpageWrapper = fullpageProps => (
 
 
                     <div className="section fp-auto-height-responsive">
+
+                        <div class="center_solo_text">
+
+                            Over the course of the next years in Poston, they began rebuilding their lives.
+
+                                <p>
+                                "The schools were in barracks, 7th grade on one side, the 8th grade on the other, teacher had to teach both at the same time. There were other caucasian teachers as well. Especially high school level. The menfolk there started building Parker value high school, using adobe bricks so the school was well insulated. They had fairly large classrooms. They built it pretty soon, and we went to Parker Valley High school. We had PE classes as well. There weren't any Japanese language classes, I think they frowned on it because this is still America. When we walked to school we would collect adobe on the bottom of our shoes, we would get a little taller."
+                                </p>
+
+                            <p>
+                                "As youngsters, we played softball, basketball and football. My last year I played baseball there. That was fun. We played against other blocks. Just a ball. For basketball they had erected a post, four by four and a hoop. People wanted to play basketball, so that was easy for them to build. At least most blocks had basketball courts."
+                                </p>
+                            <p>
+                                "They would put a fairly large building on the building that held Oil tank. I guess the federal government provided for that. They would have the projector showing a big screen for everybody to see movies, outdoors. We used to see movies that way. Almost all the movies at the time were black and white, technicolor movies were in the future. White Christmas came up with Bing Crosby, It was winter time when it came out. In the wintertime, some people would build little charcoal tin cans, fill them with charcoal and keep them warm. Eventually, in our camp they build an amphitheatre.   They had dances in the mess hall. We didn't dance until the last year there, up until then we would watch."
+                                </p>
+
+                        </div>
+                                                
+                    </div>
+
+
+                    <div className="section fp-auto-height-responsive">
+                        <section class="single-photo">
+                            <img src={'../../internment-game.jpg'} alt="A game in 1943 in an internment camp. (Photo courtesy Kerry Yo Nakagaw/Nisei Baseball Research Project)" />
+                        </section>
+                        <div className="caption">A game in 1943 in an internment camp. (Photo courtesy Kerry Yo Nakagaw/Nisei Baseball Research Project)</div>
+                    </div>
+
+           
+                    
+
+                    <div className="section fp-auto-height-responsive">
                         < div className="jheader" > Fighting Back from Camp.</div >
 
                         < div className="jsubheader"> Loyalty - No No Boys</div>
                         <div className="center_solo_text_narrow">
                         <p>
-                            In 1943, the loyalty of Japanese American was questioned in the form of a form that became known as the "loyalty questionnaire" with the intent of recruiting them into combat units and judge their "Americanness" or "Japaneseness". On it, there existed two questions that created outrage across those who were incarcerated.
+                                While they were still in the incarecation camps in 1943, the loyalty of Japanese American was questioned in the form of a form that became known as the "loyalty questionnaire" with the intent of recruiting them into combat units and judge their "Americanness" or "Japaneseness". On it, there existed two questions that created outrage across those who were incarcerated.
                         </p>
                         <div className="blockquote">
                             Question 27) "Are you willing to serve in the armed forces of the United States on combat duty, wherever ordered?".
@@ -185,7 +223,8 @@ const FullpageWrapper = fullpageProps => (
                         <p>
                                 Question 27 had been a difficult question for those who felt they were being forced into serving a country that was currently imprisoning them. Others felt that they could not risk seeing their family become any more separated than it already had.
 
-                                Many of the Japanese Americans had been barred from becoming US citizens on the basis of race. Answering Question 28 with a yes and giving up their Japanese citizenship, would explicitly leave them stateless. They could neither hold a Japanese citizenship and return to Japan nor an American one in the place they were living. For those who were declared disloyal for how they answered these questions, they were sent to the Tule Lake internment center, which served as a segregation center for 18,000 "Disloyals."
+                                Many of the Japanese Americans had been barred from becoming US citizens on the basis of race. Answering Question 28 with a yes and giving up their Japanese citizenship, would explicitly leave them stateless. They could neither hold a Japanese citizenship and return to Japan, nor an American one, in the place they were living. For many, choosing answers to these two questions created significant rifts between family members, where some couldn't bear to see their children go into the military after seeing so many of their children already separated by the service. Others distanced themselves from these people, not wanting to be seen as disloyal to the cause. It was a symbolic gesture for others, a few who would answer yes, but would then append in the margins "when we are returned our rights as American citizens". 17% of people answered no to both questions as a means of protest, becoming known as the "No-No Boys". 
+                                
                         </p>
 
                         </div>
@@ -197,7 +236,7 @@ const FullpageWrapper = fullpageProps => (
                         <div className="center_solo_text_narrow">
 
                         <p>
-                            Tule Lake due to its large population of dissidents was extremely strong politically, and this often lead to crackdowns from the military and camp directors. For many, choosing answers to these two questions created significant rifts between family members, where some couldn't bear to see their children go into the military after seeing so many of their children already separated by the service. Others distanced themselves from these people, not wanting to be seen as disloyal to the cause. It was a symbolic gesture for others, a few who would answer yes, but would then append in the margins "when we are returned our rights as American citizens". 17% of people answered no to both questions as a means of protest, becoming known as the "No-No Boys".
+                                For those who answered no to these questions, were declared disloyal and sent to the Tule Lake internment center, which served as a segregation center for 18,000 "Disloyals." Tule Lake, due to its large population of dissidents, was politically active, and this often lead to crackdowns from the military and camp directors. 
                         </p>
                         <p>
 
@@ -222,10 +261,10 @@ const FullpageWrapper = fullpageProps => (
                         <div className="grid_fighting">
                             <div className="item_text">
                         <p>
-                            Despite denial of their civil rights, many Japanese Americans volunteered for the military service, even against some of their family's wishes. One argument had been that if they decided to not join the fighting force, FDR and people who were for the imprisonment of the Japanese people in the US, would use refusal to join the military as ammunition against them as being disloyal. One internee reflected on how he felt the wrongness of being put into the camp and afterwards, being asked to volunteer for the US army. He decided over this to go and serve, as it could mean ending incarceration quicker for his father. As they went through, freeing people in Europe from Nazi concentration camps, they had to deal with the their own families being kept unjustly by the country they were putting their lives on the line for. They were put into the 442nd infantry regiment made up almost entirely of Japanese American soldiers fighting in Europe.
+                                    Despite denial of their civil rights, many Japanese Americans volunteered for the military service, even against some of their family's wishes. One argument had been that if they decided to not join the fighting force, FDR and people who were for the imprisonment of the Japanese people in the US, would use refusal to join the military as ammunition against them as being disloyal. The Japanese Americans that volunteered were put into the 442nd infantry regiment to fight in Europe. One internee reflected on how he felt the wrongness of being put into the camp, and afterwards, being asked to volunteer for the US army. He decided to go and serve, as it could mean ending incarceration quicker for his father. As they were freeing people in Europe from Nazi concentration camps, they had to deal with the their own families being kept unjustly by the country they were putting their lives on the line for. 
                         </p>
                         <p>
-                                Those who went, however, didn't hold back fighting for the country they were willing to sacrifice their lives for. They risked everything, fighting with the infamous motto of "Go For Broke."
+                                    Those who went, however, didn't hold back fighting for the country they sought to represent. They risked everything, fighting with the infamous motto of "Go For Broke."
                         </p>
                             </div>
 
@@ -240,13 +279,13 @@ const FullpageWrapper = fullpageProps => (
                         <div className="grid_fighting">
                             <div className="item_text">
                         <p>
-                            To illustrate, in one instance, the 442nd infantry was ordered to break an impenetrable German fortification built into the 3000ft high Apennine Mountains. It had withstood artillery, aircraft, and many other soldiers. The boys of the 442nd unit climbed up the steep back of mountains at night, saying, "If you fall, don't yell". Veteran Yoshio Nakamura remembers breaking the Gothic Line, "We climbed up this tremendous mountain in the dark, and surprised the German outpost on the high ground, and that ended the war in Italy."
+                                    To illustrate, in one instance, the 442nd infantry was ordered to break an impenetrable German fortification built into the 3000ft high Apennine Mountains. It had withstood artillery, aircraft, and many other soldiers. The boys of the 442nd unit climbed up the steep back of mountains at night, saying, "If you fall, you cannot yell". Veteran Yoshio Nakamura remembers breaking the Gothic Line, "We climbed up this tremendous mountain in the dark, and surprised the German outpost on the high ground, and that ended the war in Italy."
                         </p>
                         <p>
                             When a general called the 442nd to assemble for a recognition ceremony, he only saw a few number of men in formation. The general allegedly reprimanded 442nd Lieutenant Colonel Virgil Miller, stating, "You disobeyed my orders. I told you to have the whole regiment." The teary - eyed Colonel looked him in the eye and reportedly said, "General, this is the regiment, the rest are either dead or in the hospital."
                         </p>
                         <p>
-                                Of the 14, 000 soldiers who served in the 442nd, two thirds of them received purple hearts, and 21 of them received medals of honor, the highest individual military decoration awarded by the US government.They also received seven Presidential Unit Citations, the highest award for valor given to a military unit as a whole.The 442nd's effort helped convince Congress to end its opposition towards Hawaii's statehood petition, paving the way for it become the 50th state.
+                                    Of the 14,000 soldiers who served in the 442nd, two-thirds of them received purple hearts, and 21 of them received medals of honor, the highest individual military decoration awarded by the US government. They also received seven Presidential Unit Citations, the highest award for valor given to a military unit as a whole. The 442nd's effort helped convince Congress to end its opposition towards Hawaii's statehood petition, paving the way for it become the 50th state.
                         </p>
                             </div>
                             <div className="item_442">
@@ -262,7 +301,7 @@ const FullpageWrapper = fullpageProps => (
                         <div className="jsubheader" >Korematsu vs. United States </div>
                         <div className="center_solo_text">
                         <p>
-                            American civil rights activist Fred Korematsu, with the help of the American Civil Liberties Union, challenged the constitutionality of Executive Order 9066, but it was upheld in 1944 by the U.S.Supreme Court in a 6 - 3 decision.The majority ruled that security measures were necessary, while the dissenting justices alluded to, either implicitly or overtly, the role Korematsu’s race played in the decision to intern him.
+                                American civil rights activist Fred Korematsu, with the help of the American Civil Liberties Union, challenged the constitutionality of Executive Order 9066, but it was upheld in 1944 by the U.S.Supreme Court in a 6 - 3 decision. The majority ruled that security measures were necessary, while the dissenting justices alluded to, either implicitly or overtly, the role Korematsu’s race played in the decision to intern him.
                         </p>
                         <p>
                             Justice Frank Murphy dissented, "No adequate reason [was] given for the failure to treat these Japanese Americans on an individual basis by holding investigations and hearings to separate the loyal from the disloyal, as was done in the case of persons of German and Italian ancestry." He further questioned the military's claim of urgency when nearly four months had elapsed after Pearl Harbor before the first exclusion order was issued. A case of imminent danger would have warranted a declaration of martial law. "I dissent, therefore, from this legislation of racism," he stated, "Racial discrimination in any form and in any degree has no justifiable part whatever in our democratic way of life."
@@ -278,6 +317,8 @@ const FullpageWrapper = fullpageProps => (
                         <div className="full-page-photo">
                         <img src={'../../trio.jpg'} alt="  Gordon Hirabayashi, Minoru Yasui, and Fred Korematsu." />
                         </div>
+                        <div className="caption">Gordon Hirabayashi, left, Minoru Yasui, center, and Fred Korematsu who defied curfew orders (1983).</div>
+
                     </div>
 
                     <div className="section fp-auto-height-responsive">
@@ -291,10 +332,10 @@ const FullpageWrapper = fullpageProps => (
                                     General DeWitt, one of those largely responsible for the incarceration of the Japanese Americans, pronounced "There is a feeling developing, I think, in certain sections of the country, that the Japanese should be allowed to return. I am opposing it with every proper means at my disposal." Calls began getting made that all Japanese Americans should be stripped of citizenship, reduced in their ability to own land, deported where possible, and prevented from returning. Organizations began sprouting up like the Japanese Exclusion League in Bellevue, Washington and the Remember Pearl Harbor League in Seattle. Earl Warren, after becoming the governor of California, said, "We don't propose to have the Japs back in California during this war if there is lawful means of preventing it."
                         </p>
                         <p>
-                            When families would return home, they would find that their homes were taken over by other people, vandalised, sold, or their possessions plundered.Their previous jobs were denied being returned to them on the basis of their Japanese ancestry, bosses telling them to stay home. Landlords were unwilling to provide housing to Japanese American families because they did not want any Japanese people to live with them.
+                                    When families would return home, they would find that their homes were taken over by other people, vandalised, sold, or their possessions plundered. Their previous jobs were not returned to them on the basis of their Japanese ancestry, bosses telling them to stay home. Landlords were unwilling to provide housing to Japanese American families because they did not want any Japanese people to live with them.
                         </p>
                         <p>
-                                    One daughter accounts how her dad took his own life because he was unable to get a job and provide for his family. A mother remembers how she and her daughter would seek rent in many different places after taking the train to Chicago only to be left homeless, but the War Relocation Authority asked them to take a picture to use for a pamphlet that would be used to convince other Japanese people to come and live in Chicago. She remembers walking around the city for entire days looking at for rent signs, but being told the places had already been rented when they would ask to rent the place. After the boys from the 442nd came back from serving, they would be denied haircuts even while they were still in uniform. "They wouldn’t give him a haircut because he was Japanese. But he wasn’t Japanese. He was a Japanese American soldier”
+                                    One daughter accounts how her dad took his own life because he was unable to get a job and provide for their family. Another mother remembers seeking taking the train to Chicago with her in search of a new home. However, after inquiring about rent from apartments with "For Rent" signs, she would be told that the place had already been rented, leaving her daughter and her, homeless in the city. Afterwards, the War Relocation Authority, who was in charge of helping the internees resettle, took her picture as an incentive picture to encourage other Japanese to come take the trip to Chicago as well. After the boys from the 442nd came back from serving, they would be denied haircuts even while they were still in uniform. "They wouldn’t give him a haircut because he was Japanese. But he wasn’t Japanese. He was a Japanese American soldier”
                             </p>
                             </div>
                             <div class="audioitem">
@@ -309,7 +350,7 @@ const FullpageWrapper = fullpageProps => (
                         <div className="grid_fighting">
                             <div className="item_text">
                         <p>
-                                    The argument for national security in World War 2 that led to the internment of the Japanese American people has become the center stake in the "re-education" an estimated 1 million Uyghur people in China. Located in the Western region of China, the country has began implementing layers of surveillance, strict policies and concentration camps for the reported reduction of terrorism and ethnic unity of China. Given the ability of the central power in China to move as quickly as other countries in war time, they are able to move on any notion of fear without a fear of national backlash nor internal. Fuelling the support for their concentration camps with propaganda and surveillance, the government holds tight control on their public unity. Weaving together a deep state of surveillance, they are able to stop terrorism by keeping people in a great amount of fear of non government approved activities. It feels all too similar, the concept of safety in the interior for the massive rights being taken away from a minority painted to be dangerous, left without the tools to defend themselves, wondering how they should act.
+                                    The argument for national security in World War 2 that led to the internment of the Japanese American people has become the center stake in the "re-education" an estimated 1 million Uyghur people in China. Located in the Western region of China, the country has began implementing layers of surveillance, strict policies and concentration camps for the reported reduction of terrorism and ethnic unity of China. Given the ability of the central power in China to move as quickly as other countries in war time, they are able to move on any notion of fear without a fear of national backlash nor internal. Fuelling the support for their concentration camps with propaganda and surveillance, the government holds tight control on their public unity. Weaving together a deep state of surveillance, they are able to stop activism by keeping people in a great amount of fear of non government approved activities. It feels all too similar, the concept of safety in the interior for the massive rights being taken away from a minority painted to be dangerous, left without the tools to defend themselves, wondering how they should act.
                         </p>
                             </div>
                             <div className="uyghur_protest">
@@ -329,7 +370,7 @@ const FullpageWrapper = fullpageProps => (
                     </div>
 
                     <div className="section fp-auto-height-responsive">
-                        <div className="jheader" >Japanese Internment.</div>
+                        <div className="jheader" >End.</div>
                         <div className="grid_vertical">
                             <div className="center_solo_text">
 
@@ -371,26 +412,23 @@ const FullpageWrapper = fullpageProps => (
                         <div className="jheader" > Acknowledgements</div>
                         <div className="center_solo_text">
                         <p>
-                                I want to thank my Grandpa, Grandma, Sam, Helen and Ted for taking the time to sit down with me in Grandpa and Grandma's home in Concord, California, to share their stories from their time in internment.
+                                Thank you Sam, Helen, Bob, Fran and Ted for taking the time to sit down with me in Grandpa and Grandma's home in Concord, California, to share their stories from their time in internment. Further thanks to all the people who have written books on the incarceration of the Japanese, built up online resources, and pulled incredible images together that were previously lost. Thank you Grandpa and Grandma for everything you've taught me through conversation and through you living your own lives as a model for us all to learn from.
                         </p>
                             <div className="audioitem">
                                 <Jplayer src='../../grandpa_license_plates.m4a' />
                             </div>
-                    It was cold as fuck in Tule lake.
-
-                        <div className="single-photo-small">
-
-                                <img src={'../../camp_tulelake.jpg'} alt="Tule Lake Segregation Center." />
-                            </div>
 
                         </div>
                     </div>
 
-                    <div className="section fp-auto-height-responsive">
+                    {/* <div className="section fp-auto-height-responsive">
                         <div className="full-page-photo">
                             <img src={'../../go_for_broke_monument.jpg'} alt=" Monument in LA." />
                         </div>
+                        <div className="caption">Go for broke .</div>
                     </div>
+                  */}
+
 
 
                 </div>
