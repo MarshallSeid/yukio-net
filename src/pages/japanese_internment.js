@@ -6,29 +6,39 @@ import React from 'react'
 import ReactFullpage from '@fullpage/react-fullpage'
 
 const fullpageOptions = {
-    anchors: ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '20', '21', '22', '23'],
+    anchors: ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '20', '21', '22', '23', '24', '25'],
     sectionsColor: [
-        "#d68346",
-        "#db915b",
-        "#db915b",
-        "#df9f70",
-        "#df9f70", // 5
-        "#e4ad85",
+        "#e9bb9a", // 1
         "#e9bb9a",
         "#e9bb9a",
-        "#edc9af",
-        "#edc9af",
-        "#edc9af",
-        "#edc9af", // 10
-        "#e4ad85",
-        "#e4ad85",
-        "#df9f70",
-        "#df9f70",
-        "#db915b", // 15
-        "#db915b",
-        "#e09f70",
-        "#e4ad85",
-        "#e4ad85",
+        
+        "#f7e8d9",
+        "#f7e8d9", // 5
+        "#f7e8d9",
+        "#f7e8d9",
+        "#f7e8d9",
+
+        "#f7ead9",
+        "#f7ead9", //10
+        "#f7ead9",
+        "#f7ead9", // 12
+
+
+        "#fbf6ee",
+        "#fbf6ee",
+        "#fbf6ee", // 15
+        "#fbf6ee",
+        "#fbf6ee", // 17
+        "#fbf6ee",
+
+        "#fbf7ee",
+        "#fbf7ee",
+        "#fbf7ee",
+
+        "#fff0f5",
+        "#fff0f5",
+        "#fff0f5",
+        "#fff0f5"
     ],
     callbacks: ['onLeave', 'afterLoad'],
     navigation: true,
@@ -64,7 +74,7 @@ const FullpageWrapper = fullpageProps => (
                 <div id="fullpage-wrapper">
                     <div className="section section1">
                         <div className="jheader">Japanese Internment Exhibit</div>
-                        <div className="center_solo_text">
+                        <div className="extra_center_solo_text">
                         <p>
                                 The United States Government between 1942 and 1946, forced the internment of 120,000 Japanese Americans into desert prison camps within the United States without due process. Of those imprisoned, two-thirds had <b> United States citizenship</b>, while the rest were ineligible for citizenship under US law at the time. Most were forced to sell their homes, family plots, and were only allowed to take what they could carry.
                     </p>
@@ -178,9 +188,9 @@ const FullpageWrapper = fullpageProps => (
                     <div className="section fp-auto-height-responsive">
 
                         <div class="center_solo_text">
-
+                            <p>
                             Over the course of the next years in Poston, they began rebuilding their lives.
-
+                            </p>
                                 <p>
                                 "The schools were in barracks, 7th grade on one side, the 8th grade on the other, teacher had to teach both at the same time. There were other caucasian teachers as well. Especially high school level. The menfolk there started building Parker value high school, using adobe bricks so the school was well insulated. They had fairly large classrooms. They built it pretty soon, and we went to Parker Valley High school. We had PE classes as well. There weren't any Japanese language classes, I think they frowned on it because this is still America. When we walked to school we would collect adobe on the bottom of our shoes, we would get a little taller."
                                 </p>
@@ -369,7 +379,7 @@ const FullpageWrapper = fullpageProps => (
                         <div className="caption">Crystal City Internment Camp (Left), Uyghur "Re-education" Camp (Right).</div>
                     </div>
 
-                    <div className="section fp-auto-height-responsive">
+                    <div className="section fp-auto-height-responsive" id="end_section">
                         <div className="jheader" >End.</div>
                         <div className="grid_vertical">
                             <div className="center_solo_text">
@@ -383,9 +393,6 @@ const FullpageWrapper = fullpageProps => (
                                 <div class="audioitem">
                                     <Jplayer src='../../younger_generation_to_remember.m4a' />
                                 </div>
-                            </div>
-                            <div className="photo_vertical">
-                                <img src={'../../camp_painting.jpg'} alt="At the moment it will feel normal." />
                             </div>
                         </div>
                     </div>
@@ -412,7 +419,7 @@ const FullpageWrapper = fullpageProps => (
                         <div className="jheader" > Acknowledgements</div>
                         <div className="center_solo_text">
                         <p>
-                                Thank you Sam, Helen, Bob, Fran and Ted for taking the time to sit down with me in Grandpa and Grandma's home in Concord, California, to share their stories from their time in internment. Further thanks to all the people who have written books on the incarceration of the Japanese, built up online resources, and pulled incredible images together that were previously lost. Thank you Grandpa and Grandma for everything you've taught me through conversation and through you living your own lives as a model for us all to learn from.
+                                Thank you Sam, Helen, Bob, Fran and Ted for taking the time to sit down with me in Grandpa and Grandma's home in Concord, California, to share their stories from their time in internment. Further thanks to all the people who have written books on the incarceration of the Japanese, built up online resources, and pulled incredible images together that were previously lost. Thank you Grandpa and Grandma for everything you've taught me through conversation and through you living your own     lives as a model for us all to learn from. This project is dedicated to you.
                         </p>
                             <div className="audioitem">
                                 <Jplayer src='../../grandpa_license_plates.m4a' />
@@ -421,6 +428,11 @@ const FullpageWrapper = fullpageProps => (
                         </div>
                     </div>
 
+                    <div className="section fp-auto-height-responsive">
+                    <div className="full-page-photo">
+                                <img src={'../../camp_painting.jpg'} alt="At the moment it will feel normal." />
+                            </div>
+                    </div>
                     {/* <div className="section fp-auto-height-responsive">
                         <div className="full-page-photo">
                             <img src={'../../go_for_broke_monument.jpg'} alt=" Monument in LA." />
