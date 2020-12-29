@@ -74,7 +74,7 @@ const FullpageWrapper = fullpageProps => (
                 <div id="fullpage-wrapper">
                     <div className="section section1">
                         <div className="jheader">Japanese Internment Exhibit</div>
-                        <div className="extra_center_solo_text">
+                        <div className="center_solo_text">
                         <p>
                                 The United States Government between 1942 and 1946, forced the internment of 120,000 Japanese Americans into desert prison camps within the United States without due process. Of those imprisoned, two-thirds had <b> United States citizenship</b>, while the rest were ineligible for citizenship under US law at the time. Most were forced to sell their homes, family plots, and were only allowed to take what they could carry.
                     </p>
