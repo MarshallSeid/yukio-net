@@ -6,7 +6,7 @@ import React from 'react'
 import ReactFullpage from '@fullpage/react-fullpage'
 
 const fullpageOptions = {
-    anchors: ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '20', '21', '22', '23', '24', '25'],
+    anchors: ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '20', '21', '22', '23', '24', '25', '26', '27', '28', '29'],
     sectionsColor: [
         "#e9bb9a", // 1
         "#e9bb9a",
@@ -22,15 +22,20 @@ const fullpageOptions = {
         "#f7ead9", //10
         "#f7ead9",
         "#f7ead9", // 12
+        "#f7ead9",
+        "#f7ead9",
 
 
         "#fbf6ee",
         "#fbf6ee",
-        "#fbf6ee", // 15
         "#fbf6ee",
-        "#fbf6ee", // 17
+        "#fbf6ee", // 18
+        "#fbf6ee",
+        "#fbf6ee", // 20
+        "#fbf6ee",
         "#fbf6ee",
 
+        "#fbf7ee",
         "#fbf7ee",
         "#fbf7ee",
         "#fbf7ee",
@@ -97,10 +102,10 @@ const FullpageWrapper = fullpageProps => (
                         <div className="jheader">Deciding the Fate of Japanese Americans</div>
                         <div class="center_solo_text">
                         <p>
-                            In 1941 US Intelligence report "Munson Report" commissioned by President Franklin Roosevelt concluded that the great majority of Japanese Americans are loyal to the U.S. and do not pose a threat to national security in the event of war with Japan. The report was passed to Roosevelt noting that, "The essence of what [Munson] has to report is that, to date, he has found no evidence which would indicate that there is danger of widespread anti-American activities among this population group. He feels that the Japanese are more in danger from the whites than the other way around."
+                            In 1941 US Intelligence report "Munson Report" commissioned by President Franklin Roosevelt concluded that the great majority of Japanese Americans are loyal to the U.S. and do not pose a threat to national security in the event of war with Japan. The report was passed to Roosevelt. It noted that, "The essence of what [Munson] has to report is that, to date, he has found no evidence which would indicate that there is danger of widespread anti-American activities among this population group. He feels that the Japanese are more in danger from the whites than the other way around."
                         </p>
                         <p>
-                                A year after, in the aftermath of Pearl Harbor attacks, Roosevelt issued Executive Order 9066, which authorized the exclusion of any and all persons from coastal regions. Executive orders are used by the president of the US that remain in force until they are cancelled, revoked, adjudicated, expire or determined unlawful. Even though it did not specify the Japanese by name, it was quickly applied to virtually all Japanese Americans living in the border regions of California, Oregon, Arizona, and Washington. The US carried out the exclusion and forced removal of all persons of Japanese ancestry into the internment camps. These internment camps were akin to prison camps, surrounded with armed guards and barbed wire. Colonel Karl Bendetsen, the architect behind the program, went so far as saying that anyone with "one drop of Japanese blood" qualified.
+                                A year after, in the aftermath of Pearl Harbor attacks, Roosevelt issued Executive Order 9066, therefore authorizing the exclusion of any and all persons from coastal regions. Executive orders are put in force by the president. They then remain in force until they are cancelled, revoked, adjudicated, expire or determined unlawful. Even though it did not specify the Japanese by name, it was quickly applied to virtually all Japanese Americans living in the border regions of California, Oregon, Arizona, and Washington. The US carried out the exclusion and forced removal of all persons of Japanese ancestry into the internment camps. These internment camps were akin to prison camps, surrounded with armed guards and barbed wire. Colonel Karl Bendetsen, the architect behind the program, went so far as saying that anyone with "one drop of Japanese blood" qualified.
                         </p>
                     </div>
                     </div>
@@ -163,6 +168,11 @@ const FullpageWrapper = fullpageProps => (
                                 <p>
                                 "The barracks had bare walls. We had an oil stove, that was the heating, and what we had to do is separate the barrack in half so we have the sleeping quarters on one side and the living room on the other, if you want to call it a living room, it was nothing, maybe a table. We used to hear stories about scorpions coming in, because it was Arizona, we saw some, but not in our apartment. We were overcrowded, in fact, some of us slept outside. The first order of the day after unloading our luggage was to go to the area where they had straw and a cover for a mattress, we stuffed it with straw and that became our mattress.”
                                 </p>
+                        </div>
+                    </div>
+
+                    <div className="section fp-auto-height-responsive">
+                            <div class="center_solo_text">
                                 <p>
                                 "We had 3 meals a day. We couldn't have fancy food, we were lucky to have mutton, people hated it. They made a lot of okazu: cut up meat, zuccini or any kind of veggie, throws it in a pan, maybe some sugar and soy sauce for flavor, then serves it to the family. That's okazu." Hideyuki's mother, "who had always had a delicate constiuttion, could not tolerate the camp food and became ill", and passed away two years after they entered into the camp.
                                 </p>
@@ -186,18 +196,21 @@ const FullpageWrapper = fullpageProps => (
 
 
                     <div className="section fp-auto-height-responsive">
-
+                    <div className="jsubheader">Over the course of the next years in Poston, they began rebuilding their lives.</div>
+                            
                         <div class="center_solo_text">
                             <p>
-                            Over the course of the next years in Poston, they began rebuilding their lives.
-                            </p>
-                                <p>
                                 "The schools were in barracks, 7th grade on one side, the 8th grade on the other, teacher had to teach both at the same time. There were other caucasian teachers as well. Especially high school level. The menfolk there started building Parker value high school, using adobe bricks so the school was well insulated. They had fairly large classrooms. They built it pretty soon, and we went to Parker Valley High school. We had PE classes as well. There weren't any Japanese language classes, I think they frowned on it because this is still America. When we walked to school we would collect adobe on the bottom of our shoes, we would get a little taller."
                                 </p>
-
                             <p>
                                 "As youngsters, we played softball, basketball and football. My last year I played baseball there. That was fun. We played against other blocks. Just a ball. For basketball they had erected a post, four by four and a hoop. People wanted to play basketball, so that was easy for them to build. At least most blocks had basketball courts."
                                 </p>
+                        </div>
+                                                
+                    </div>
+
+                    <div className="section fp-auto-height-responsive">
+                        <div class="center_solo_text">
                             <p>
                                 "They would put a fairly large building on the building that held Oil tank. I guess the federal government provided for that. They would have the projector showing a big screen for everybody to see movies, outdoors. We used to see movies that way. Almost all the movies at the time were black and white, technicolor movies were in the future. White Christmas came up with Bing Crosby, It was winter time when it came out. In the wintertime, some people would build little charcoal tin cans, fill them with charcoal and keep them warm. Eventually, in our camp they build an amphitheatre.   They had dances in the mess hall. We didn't dance until the last year there, up until then we would watch."
                                 </p>
@@ -220,30 +233,40 @@ const FullpageWrapper = fullpageProps => (
                     <div className="section fp-auto-height-responsive">
                         < div className="jheader" > Fighting Back from Camp.</div >
 
-                        < div className="jsubheader"> Loyalty - No No Boys</div>
-                        <div className="center_solo_text_narrow">
+                        <div className="jsubheader"> Loyalty - No No Boys</div>
+                        <div className="center_solo_text">
                         <p>
                                 While they were still in the incarecation camps in 1943, the loyalty of Japanese American was questioned in the form of a form that became known as the "loyalty questionnaire" with the intent of recruiting them into combat units and judge their "Americanness" or "Japaneseness". On it, there existed two questions that created outrage across those who were incarcerated.
                         </p>
                         <div className="blockquote">
                             Question 27) "Are you willing to serve in the armed forces of the United States on combat duty, wherever ordered?".
-                        <br />
-                        Question 28) "Will you swear unqualified allegiance to the United States of America and faithfully defend the United States from any and all attacks by foreign and domestic forces, and forswear any form of allegiance or disobedience to the Japanese Emperor, or any other foreign government, power, or organization"
+                        <br /><br />
+                            Question 28) "Will you swear unqualified allegiance to the United States of America and faithfully defend the United States from any and all attacks by foreign and domestic forces, and forswear any form of allegiance or disobedience to the Japanese Emperor, or any other foreign government, power, or organization"
                         </div>
+                        </div>
+                    </div>
+
+
+                    <div className="section fp-auto-height-responsive">
+                    <div className="center_solo_text">
                         <p>
                                 Question 27 had been a difficult question for those who felt they were being forced into serving a country that was currently imprisoning them. Others felt that they could not risk seeing their family become any more separated than it already had.
-
-                                Many of the Japanese Americans had been barred from becoming US citizens on the basis of race. Answering Question 28 with a yes and giving up their Japanese citizenship, would explicitly leave them stateless. They could neither hold a Japanese citizenship and return to Japan, nor an American one, in the place they were living. For many, choosing answers to these two questions created significant rifts between family members, where some couldn't bear to see their children go into the military after seeing so many of their children already separated by the service. Others distanced themselves from these people, not wanting to be seen as disloyal to the cause. It was a symbolic gesture for others, a few who would answer yes, but would then append in the margins "when we are returned our rights as American citizens". 17% of people answered no to both questions as a means of protest, becoming known as the "No-No Boys". 
-                                
+                            </p>
+                            <p>
+                                Many of the Japanese Americans had been barred from becoming US citizens on the basis of race. Answering Question 28 with a yes and giving up their Japanese citizenship, would explicitly leave them stateless. They could neither hold a Japanese citizenship and return to Japan, nor an American one, in the place they were living.
+                            </p>
+                            <p>
+                                For many, choosing answers to these two questions created significant rifts between family members, where some couldn't bear to see their children go into the military after seeing so many of their children already separated by the service. Others distanced themselves from these people, not wanting to be seen as disloyal to the cause. It was a symbolic gesture for others, a few who would answer yes, but would then append in the margins "when we are returned our rights as American citizens". 17% of people answered no to both questions as a means of protest, becoming known as the "No-No Boys". 
+                                 
                         </p>
 
                         </div>
-
-
-
                     </div>
+
+
+
                     <div className="section fp-auto-height-responsive">
-                        <div className="center_solo_text_narrow">
+                        <div className="center_solo_text">
 
                         <p>
                                 For those who answered no to these questions, were declared disloyal and sent to the Tule Lake internment center, which served as a segregation center for 18,000 "Disloyals." Tule Lake, due to its large population of dissidents, was politically active, and this often lead to crackdowns from the military and camp directors. 
@@ -311,14 +334,23 @@ const FullpageWrapper = fullpageProps => (
                         <div className="jsubheader" >Korematsu vs. United States </div>
                         <div className="center_solo_text">
                         <p>
-                                American civil rights activist Fred Korematsu, with the help of the American Civil Liberties Union, challenged the constitutionality of Executive Order 9066, but it was upheld in 1944 by the U.S.Supreme Court in a 6 - 3 decision. The majority ruled that security measures were necessary, while the dissenting justices alluded to, either implicitly or overtly, the role Korematsu’s race played in the decision to intern him.
+                                American civil rights activist Fred Korematsu, with the help of the American Civil Liberties Union, challenged the constitutionality of Executive Order 9066, but it was upheld in 1944 by the U.S.Supreme Court in a 6 - 3 decision. The majority ruled that security measures were necessary, while the dissenting justices alluded to, either implicitly or overtly, the role Korematsu’s race played in the decision to incarcerate him.
                         </p>
                         <p>
                             Justice Frank Murphy dissented, "No adequate reason [was] given for the failure to treat these Japanese Americans on an individual basis by holding investigations and hearings to separate the loyal from the disloyal, as was done in the case of persons of German and Italian ancestry." He further questioned the military's claim of urgency when nearly four months had elapsed after Pearl Harbor before the first exclusion order was issued. A case of imminent danger would have warranted a declaration of martial law. "I dissent, therefore, from this legislation of racism," he stated, "Racial discrimination in any form and in any degree has no justifiable part whatever in our democratic way of life."
                         </p>
+                        </div>
+                    </div>
 
-                        <p>
-                                Although Korematsu vs. US has never formally been overturned, Chief Roberts in Trump Vs. Hawaii 2018 offered the most powerful rebuke of the result of the Korematsu case at the Supreme Court since the original dissents:  "[...] Korematsu has nothing to do with this case. The forcible relocation of U. S. citizens to concentration camps, solely and explicitly on the basis of race, is objectively unlawful and outside the scope of Presidential authority [...] The dissent’s reference to Korematsu, however, affords this Court the opportunity to make express what is already obvious: Korematsu was gravely wrong the day it was decided, has been overruled in the court of history, and—to be clear—“has no place in law under the Constitution.”
+
+
+                    <div className="section fp-auto-height-responsive">
+                        <div className="center_solo_text">
+                            <p>
+                                Although Korematsu vs. US has never formally been overturned, Chief Roberts in Trump Vs. Hawaii 2018 offered the most powerful rebuke of the result of the Korematsu case at the Supreme Court since the original dissents:  
+                            </p>
+                            <p>
+                                "[...] Korematsu has nothing to do with this case. The forcible relocation of US citizens to concentration camps, solely and explicitly on the basis of race, is objectively unlawful and outside the scope of Presidential authority [...] The dissent’s reference to Korematsu, however, affords this Court the opportunity to make express what is already obvious: Korematsu was gravely wrong the day it was decided, has been overruled in the court of history, and—to be clear—“has no place in law under the Constitution.”
                         </p>
                         </div>
                     </div>
@@ -334,34 +366,42 @@ const FullpageWrapper = fullpageProps => (
                     <div className="section fp-auto-height-responsive">
                         <div className="jheader">Life after the camps </div>
                         <div className="jsubheader">"Going to the camps was easy, coming out was not".</div>
+                        <div className="center_solo_text">
+                            <p>
+                                General DeWitt, one of those largely responsible for the incarceration of the Japanese Americans, pronounced "There is a feeling developing, I think, in certain sections of the country, that the Japanese should be allowed to return. I am opposing it with every proper means at my disposal."
+                            </p>
+                            <p>
+                                Calls began getting made that all Japanese Americans should be stripped of citizenship, reduced in their ability to own land, deported where possible, and prevented from returning. Organizations began sprouting up like the Japanese Exclusion League in Bellevue, Washington and the Remember Pearl Harbor League in Seattle. Earl Warren, after becoming the governor of California, said, "We don't propose to have the Japs back in California during this war if there is lawful means of preventing it."
+                            </p>
+                        </div>
+                    </div>
 
-                        <section class="grid-text-left">
-                            <div class="item-1">
 
-                        <p>
-                                    General DeWitt, one of those largely responsible for the incarceration of the Japanese Americans, pronounced "There is a feeling developing, I think, in certain sections of the country, that the Japanese should be allowed to return. I am opposing it with every proper means at my disposal." Calls began getting made that all Japanese Americans should be stripped of citizenship, reduced in their ability to own land, deported where possible, and prevented from returning. Organizations began sprouting up like the Japanese Exclusion League in Bellevue, Washington and the Remember Pearl Harbor League in Seattle. Earl Warren, after becoming the governor of California, said, "We don't propose to have the Japs back in California during this war if there is lawful means of preventing it."
-                        </p>
+                    <div className="section fp-auto-height-responsive">
+                        <div className="center_solo_text">
+
                         <p>
                                     When families would return home, they would find that their homes were taken over by other people, vandalised, sold, or their possessions plundered. Their previous jobs were not returned to them on the basis of their Japanese ancestry, bosses telling them to stay home. Landlords were unwilling to provide housing to Japanese American families because they did not want any Japanese people to live with them.
                         </p>
                         <p>
                                     One daughter accounts how her dad took his own life because he was unable to get a job and provide for their family. Another mother remembers seeking taking the train to Chicago with her in search of a new home. However, after inquiring about rent from apartments with "For Rent" signs, she would be told that the place had already been rented, leaving her daughter and her, homeless in the city. Afterwards, the War Relocation Authority, who was in charge of helping the internees resettle, took her picture as an incentive picture to encourage other Japanese to come take the trip to Chicago as well. After the boys from the 442nd came back from serving, they would be denied haircuts even while they were still in uniform. "They wouldn’t give him a haircut because he was Japanese. But he wasn’t Japanese. He was a Japanese American soldier”
                             </p>
-                            </div>
                             <div class="audioitem">
                                 <Jplayer src='../../murasa_shot_at.wav' />
                             </div>
-
-                        </section>
+                            </div>
                     </div>
 
                     <div className="section fp-auto-height-responsive">
                         <div className="jheader">Modern Day Echoes</div>
                         <div className="grid_fighting">
                             <div className="item_text">
-                        <p>
-                                    The argument for national security in World War 2 that led to the internment of the Japanese American people has become the center stake in the "re-education" an estimated 1 million Uyghur people in China. Located in the Western region of China, the country has began implementing layers of surveillance, strict policies and concentration camps for the reported reduction of terrorism and ethnic unity of China. Given the ability of the central power in China to move as quickly as other countries in war time, they are able to move on any notion of fear without a fear of national backlash nor internal. Fuelling the support for their concentration camps with propaganda and surveillance, the government holds tight control on their public unity. Weaving together a deep state of surveillance, they are able to stop activism by keeping people in a great amount of fear of non government approved activities. It feels all too similar, the concept of safety in the interior for the massive rights being taken away from a minority painted to be dangerous, left without the tools to defend themselves, wondering how they should act.
-                        </p>
+                                <p>
+                                    The argument for national security in World War 2 that led to the internment of the Japanese American people has become the center stake in the "re-education" an estimated 1 million Uyghur people in China. Located in the Western region of China, the country has began implementing layers of surveillance, strict policies and concentration camps for the reported reduction of terrorism and ethnic unity of China. Given the ability of the central power in China to move as quickly as other countries in war time, they are able to move on any notion of fear without a fear of national backlash nor internal. Fuelling the support for their concentration camps with propaganda and surveillance, the government holds tight control on their public unity. Weaving together a deep state of surveillance, they are able to stop activism by keeping people in a great amount of fear of non government approved activities.
+                                </p>
+                                <p>
+                                    It feels all too similar, the concept of safety in the interior for the massive rights being taken away from a minority painted to be dangerous, left without the tools to defend themselves, wondering how they should act.
+                                </p>
                             </div>
                             <div className="uyghur_protest">
                                 <div className="single-photo-medium">
