@@ -143,7 +143,7 @@ const FullpageWrapper = fullpageProps => (
                                 In the months following Executive Order 9066, Japanese Americans were first sent to "assembly centers", which were often horse race tracks or fairgrounds where they were kept until they were sent to internment camps. They had not had any charges of disloyalty, nor were they able to appeal for their loss of property and personal liberty.
                         </p>
                         <p>
-                                Helen Abe was 8 years old when the FBI had tried to take away Helen's mother because she was a school teacher, and place her into the Crystal City internment camp in Texas. They ended up sending the two of them to the Santa Anita racetrack in California.  Sam Morri described his experience at the Santa Anita racetrack with his family of 7 as, "We had to live in the horse stalls... They just laid the asphalt right over the poop, everything. It was so hot the legs of the bed would sink in. The smell would really come up from below... We stayed there for 6 months. About 2 months in the horse stalls... Then they built some barracks in the middle of the racetrack. Japanese volunteers would make the food. The grandstands were used for making camouflage nets."
+                                Helen Abe was 8 years old when the FBI had tried to take away Helen's mother because she was a school teacher, and place her into the Crystal City internment camp in Texas. They ended up sending the two of them to the Santa Anita racetrack in California.  Sam Morri described his experience at the Santa Anita racetrack with his family of 7 as, "We had to live in the horse stalls. They just laid the asphalt right over the poop, everything. It was so hot the legs of the bed would sink in. The smell would really come up from below. We stayed there for 6 months. About 2 months in the horse stalls.Then they built some barracks in the middle of the racetrack."
                          </p>
                             <div class="audioitem">
                                 <Jplayer src='../../horse_stall_relocation.m4a' />
@@ -166,7 +166,7 @@ const FullpageWrapper = fullpageProps => (
                                 Hideyuki, Agnes, and their families were incarcerated in Poston, Arizona, which was occcupied by 18,000 internees. The families lived in barracks insulated with light tar paper, the size of a small garage meant for the entire family of 10 people.
                                 </p>
                                 <p>
-                                "The barracks had bare walls. We had an oil stove, that was the heating, and what we had to do is separate the barrack in half so we have the sleeping quarters on one side and the living room on the other, if you want to call it a living room, it was nothing, maybe a table. We used to hear stories about scorpions coming in, because it was Arizona, we saw some, but not in our apartment. We were overcrowded, in fact, some of us slept outside. The first order of the day after unloading our luggage was to go to the area where they had straw and a cover for a mattress, we stuffed it with straw and that became our mattress.”
+                                "The barracks had bare walls. We had an oil stove, that was the heating, and what we had to do is separate the barrack in half so we have the sleeping quarters on one side and the living room on the other, if you want to call it a living room, it was nothing, maybe a table. We used to hear stories about scorpions coming in, because it was Arizona, we saw some, but not in our apartment. We were overcrowded. In fact, some of us slept outside. The first order of the day after unloading our luggage was to go to the area where they had straw and a cover for a mattress, we stuffed it with straw and that became our mattress.”
                                 </p>
                         </div>
                     </div>
@@ -200,7 +200,7 @@ const FullpageWrapper = fullpageProps => (
                             
                         <div class="center_solo_text">
                             <p>
-                                "The schools were in barracks, 7th grade on one side, the 8th grade on the other, teacher had to teach both at the same time. There were caucasian teachers as well. Especially high school level. The menfolk there started building Parker value high school, using adobe bricks so the school was well insulated. They had fairly large classrooms. They built it pretty soon, and we went to Parker Valley High school. We had PE classes as well. There weren't any Japanese language classes, I think they frowned on it because this is still America. When we walked to school we would collect adobe on the bottom of our shoes, we would get a little taller."
+                                "The schools were in barracks. 7th grade on one side, the 8th grade on the other. The teacher had to teach both at the same time. There were caucasian teachers as well. Especially high school level. The menfolk there started building Parker value high school, using adobe bricks so the school was well insulated. They had fairly large classrooms. They built it pretty soon, and we went to Parker Valley High school. We had PE classes as well. There weren't any Japanese language classes. I think they frowned on it because this is still America. When we walked to school we would collect adobe on the bottom of our shoes, we would get a little taller."
                                 </p>
                             <p>
                                 "As youngsters, we played softball, basketball and football. My last year I played baseball there. That was fun. We played against other blocks. Just a ball. For basketball they had erected a post, four by four and a hoop. People wanted to play basketball, so that was easy for them to build. At least most blocks had basketball courts."
@@ -236,7 +236,7 @@ const FullpageWrapper = fullpageProps => (
                         <div className="jsubheader"> Loyalty - No No Boys</div>
                         <div className="center_solo_text">
                         <p>
-                                While they were still in the incarecation camps in 1943, the loyalty of Japanese American was questioned in the form of a form that became known as the "loyalty questionnaire" with the intent of recruiting them into combat units and judge their "Americanness" or "Japaneseness". On it, there existed two questions that created outrage across those who were incarcerated.
+                                While they were still in the internment camps in 1943, the loyalty of Japanese American was questioned in the form of a form that became known as the "loyalty questionnaire." A form given to them with the intent of recruiting them into combat units and judge their "Americanness" or "Japaneseness". On it, there existed two questions that created outrage across those who were incarcerated.
                         </p>
                         <div className="blockquote">
                             Question 27) "Are you willing to serve in the armed forces of the United States on combat duty, wherever ordered?".
@@ -256,7 +256,7 @@ const FullpageWrapper = fullpageProps => (
                                 Many of the Japanese Americans had been barred from becoming US citizens on the basis of race. Answering Question 28 with a yes and giving up their Japanese citizenship, would explicitly leave them stateless. They could neither hold a Japanese citizenship and return to Japan, nor an American one, in the place they were living.
                             </p>
                             <p>
-                                For many, choosing answers to these two questions created significant rifts between family members, where some couldn't bear to see their children go into the military after seeing so many of their children already separated by the service. Others distanced themselves from these people, not wanting to be seen as disloyal to the cause. It was a symbolic gesture for others, a few who would answer yes, but would then append in the margins "when we are returned our rights as American citizens". 17% of people answered no to both questions as a means of protest, becoming known as the "No-No Boys". 
+                                For many, choosing answers to these two questions created significant rifts between family members, where some couldn't bear to see their children go into the military after seeing so many of their children already separated by the service. Others distanced themselves from these people, not wanting to be seen as disloyal to the cause. It was a symbolic gesture for others, a few who would answer yes, but would then append in the margins "when we are returned our rights as American citizens". 17% of people answered no to both questions as a means of protest. They became known as the "No-No Boys". 
                                  
                         </p>
 
@@ -269,7 +269,7 @@ const FullpageWrapper = fullpageProps => (
                         <div className="center_solo_text">
 
                         <p>
-                                For those who answered no to these questions, were declared disloyal and sent to the Tule Lake internment center, which served as a segregation center for 18,000 "Disloyals." Tule Lake, due to its large population of dissidents, was politically active, and this often lead to crackdowns from the military and camp directors. 
+                                Those who answered no to either or all of these questions, were declared disloyal. They wereß sent to the Tule Lake internment center, which served as a segregation center for 18,000 "Disloyals." Tule Lake, due to its large population of dissidents, was politically active, and this often lead to crackdowns from the military and camp directors. 
                         </p>
                         <p>
 
@@ -294,10 +294,10 @@ const FullpageWrapper = fullpageProps => (
                         <div className="grid_fighting">
                             <div className="item_text">
                         <p>
-                                    Despite denial of their civil rights, many Japanese Americans volunteered for the military service, even against some of their family's wishes. One argument had been that if they decided to not join the fighting force, FDR and people who were for the imprisonment of the Japanese people in the US, would use refusal to join the military as ammunition against them as being disloyal. The Japanese Americans that volunteered were put into the 442nd infantry regiment to fight in Europe. One internee reflected on how he felt the wrongness of being put into the camp, and afterwards, being asked to volunteer for the US army. He decided to go and serve, as it could mean ending incarceration quicker for his father. As they were freeing people in Europe from Nazi concentration camps, they had to deal with the their own families being kept unjustly by the country they were putting their lives on the line for. 
+                                    Despite denial of their civil rights, many Japanese Americans volunteered for the military service, even against some of their family's wishes. One argument had been that if they decided to not join the fighting force, FDR and people who were for the imprisonment of the Japanese people in the US, would use refusal to join the military as ammunition against them as being disloyal. The Japanese Americans that volunteered were put into the 442nd infantry regiment to fight in Europe. One internee reflected on how he felt the wrongness of being put into the camp, and afterwards, being asked to volunteer for the US army. He explained that joining the military and ending the war quicker, could mean ending incarceration sooner for his father. As they were freeing people in Europe from Nazi concentration camps, they had to deal with the their own families being kept unjustly by the country they were putting their lives on the line for. 
                         </p>
                         <p>
-                                    Those who went, however, didn't hold back fighting for the country they sought to represent. They risked everything, fighting with the infamous motto of "Go For Broke."
+                                    Those who went, however, did not hold back fighting for the country they sought to represent. They risked everything, fighting with the infamous motto of "Go For Broke."
                         </p>
                             </div>
 
@@ -371,7 +371,7 @@ const FullpageWrapper = fullpageProps => (
                                 General DeWitt, one of those largely responsible for the incarceration of the Japanese Americans, pronounced "There is a feeling developing, I think, in certain sections of the country, that the Japanese should be allowed to return. I am opposing it with every proper means at my disposal."
                             </p>
                             <p>
-                                Calls began getting made that all Japanese Americans should be stripped of citizenship, reduced in their ability to own land, deported where possible, and prevented from returning. Organizations began sprouting up like the Japanese Exclusion League in Bellevue, Washington and the Remember Pearl Harbor League in Seattle. Earl Warren, after becoming the governor of California, said, "We don't propose to have the Japs back in California during this war if there is lawful means of preventing it."
+                                Calls began getting made that all Japanese Americans should be stripped of citizenship, reduced in their ability to own land, deported where possible, and prevented from returning. Organizations began sprouting up like the Japanese Exclusion League in Bellevue, Washington and the Remember Pearl Harbor League in Seattle. Earl Warren, after becoming the governor of California, stated, "We don't propose to have the Japs back in California during this war if there is lawful means of preventing it."
                             </p>
                         </div>
                     </div>
@@ -384,7 +384,7 @@ const FullpageWrapper = fullpageProps => (
                                     When families would return home, they would find that their homes were taken over by other people, vandalised, sold, or their possessions plundered. Their previous jobs were not returned to them on the basis of their Japanese ancestry, bosses telling them to stay home. Landlords were unwilling to provide housing to Japanese American families because they did not want any Japanese people to live with them.
                         </p>
                         <p>
-                                    One daughter accounts how her dad took his own life because he was unable to get a job and provide for their family. Another mother remembers seeking taking the train to Chicago with her in search of a new home. However, after inquiring about rent from apartments with "For Rent" signs, she would be told that the place had already been rented, leaving her daughter and her, homeless in the city. Afterwards, the War Relocation Authority, who was in charge of helping the internees resettle, took her picture as an incentive picture to encourage other Japanese to come take the trip to Chicago as well. After the boys from the 442nd came back from serving, they would be denied haircuts even while they were still in uniform. "They wouldn’t give him a haircut because he was Japanese. But he wasn’t Japanese. He was a Japanese American soldier”
+                                    One daughter accounts how her dad took his own life because he was unable to get a job and provide for their family. Another mother remembers seeking taking the train to Chicago with her in search of a new home. However, after inquiring about rent from apartments with "For Rent" signs, she would be told that the place had already been rented, leaving her daughter and her, homeless in the city. Afterwards, the War Relocation Authority, who was in charge of helping the internees resettle, took her picture as an incentive picture to encourage other Japanese to come take the trip to Chicago as well. After the boys from the 442nd came back from serving, they would be denied haircuts even while they were still in uniform. "They wouldn’t give him a haircut because he was Japanese. But he wasn’t Japanese. He was a Japanese American soldier.”
                             </p>
                             <div class="audioitem">
                                 <Jplayer src='../../murasa_shot_at.wav' />
