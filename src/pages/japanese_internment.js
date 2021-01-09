@@ -105,7 +105,7 @@ const FullpageWrapper = fullpageProps => (
                             In 1941 US Intelligence report "Munson Report" commissioned by President Franklin Roosevelt concluded that the great majority of Japanese Americans are loyal to the U.S. and do not pose a threat to national security in the event of war with Japan. The report was passed to Roosevelt. It noted that, "The essence of what [Munson] has to report is that, to date, he has found no evidence which would indicate that there is danger of widespread anti-American activities among this population group. He feels that the Japanese are more in danger from the whites than the other way around."
                         </p>
                         <p>
-                                A year after, in the aftermath of Pearl Harbor attacks, Roosevelt issued Executive Order 9066, therefore authorizing the exclusion of any and all Japanese Americans from coastal regions. Executive orders are put in force by the president. They then remain in force until they are canceled, revoked, adjudicated, expire or determined unlawful. Even though it did not specify the Japanese by name, it was quickly applied to virtually all Japanese Americans living in the border regions of California, Oregon, Arizona, and Washington. The US carried out the exclusion and forced removal of all persons of Japanese ancestry into the internment camps. These internment camps were akin to prison camps, surrounded with armed guards and barbed wire. Colonel Karl Bendetsen, the architect behind the program, went so far as saying that anyone with "one drop of Japanese blood" qualified.
+                            A year after, in the aftermath of the Pearl Harbor attacks, Roosevelt issued Executive Order 9066, authorizing the exclusion of any and all Japanese Americans from coastal regions. He performed this action despite evidence presented in the Munsron Report. Executive orders are put in force by the president. They then remain in force until they are canceled, revoked, adjudicated, expire or determined unlawful. Even though it did not specify the Japanese by name, it was quickly applied to virtually all Japanese Americans living in the border regions of California, Oregon, Arizona, and Washington. The US carried out the exclusion and forced removal of all persons of Japanese ancestry into the internment camps. These internment camps were akin to prison camps, surrounded with armed guards and barbed wire. Colonel Karl Bendetsen, the architect behind the program, went so far as saying that anyone with "one drop of Japanese blood" qualified.
                         </p>
                     </div>
                     </div>
@@ -122,7 +122,7 @@ const FullpageWrapper = fullpageProps => (
                         <div className="jheader">Taken From their Homes</div>
                         <section class="grid-text-left">
                             <div class="item-1">
-                                <p>  It was 1942 when Hideyuki Nakamura at 11 years old, watched on as the local constable entered his house, and took away his father from him. Soon after, the rest of the family had to abandon their home in Reedley, California, and "relocate." Several months later, Agnes Nishida, at 8 years old, alongisde her family, would also be sent to the internment camps.</p>
+                                <p>  It was 1942 when James (Hide Yuki) Nakamura at 11 years old, watched on as the local constable entered his house, and took away his father from him. Soon after, the rest of the family had to abandon their home in Reedley, California and "relocate." Several months later, Agnes Nishida, at 8 years old, alongisde her family, would also be sent to the internment camps.</p>
                                 <p>
                                     They had no idea where they were going, or when, if ever, they would be allowed to return. All they knew was that they were leaving, and they could only take what they could carry.
                         </p>
@@ -163,7 +163,7 @@ const FullpageWrapper = fullpageProps => (
                         <div className="jsubheader">Remaking home.</div>
                             <div class="center_solo_text">
                                 <p>
-                                Hideyuki, Agnes, and their families were incarcerated in Poston, Arizona, which was occcupied by 18,000 internees. The families lived in barracks insulated with light tar paper, the size of a small garage meant for the entire family of 10 people.
+                                James, Agnes, and their families were incarcerated in Poston, Arizona, which was occcupied by 18,000 internees. The families lived in barracks insulated with light tar paper, the size of a small garage meant for the entire family of 10 people.
                                 </p>
                                 <p>
                                 "The barracks had bare walls. We had an oil stove, that was the heating, and what we had to do is separate the barrack in half so we have the sleeping quarters on one side and the living room on the other, if you want to call it a living room, it was nothing, maybe a table. We used to hear stories about scorpions coming in, because it was Arizona, we saw some, but not in our apartment. We were overcrowded. In fact, some of us slept outside. The first order of the day after unloading our luggage was to go to the area where they had straw and a cover for a mattress, we stuffed it with straw and that became our mattress.”
@@ -174,7 +174,7 @@ const FullpageWrapper = fullpageProps => (
                     <div className="section fp-auto-height-responsive">
                             <div class="center_solo_text">
                                 <p>
-                                "We had 3 meals a day. We couldn't have fancy food, we were lucky to have mutton, people hated it. They made a lot of okazu: cut up meat, zuccini or any kind of veggie, throws it in a pan, maybe some sugar and soy sauce for flavor, then serves it to the family. That's okazu." Hideyuki's mother, "who had always had a delicate constiuttion, could not tolerate the camp food and became ill", and passed away two years after they entered into the camp.
+                                "We had 3 meals a day. We couldn't have fancy food, we were lucky to have mutton, people hated it. They made a lot of okazu: cut up meat, zuccini or any kind of veggie, throws it in a pan, maybe some sugar and soy sauce for flavor, then serves it to the family. That's okazu." James' mother, "who had always had a delicate constitution, could not tolerate the camp food and became ill", and passed away two years after they entered into the camp from stomach cancer.
                                 </p>
                             <p>
                                 "We didn't pay much attention to the watch towers, but we noticed that even though they were meant to protect us, their guns were always pointed in at us."
@@ -269,7 +269,7 @@ const FullpageWrapper = fullpageProps => (
                         <div className="center_solo_text">
 
                         <p>
-                                Those who answered no to either or all of these questions, were declared disloyal. They wereß sent to the Tule Lake internment center, which served as a segregation center for 18,000 "Disloyals." Tule Lake, due to its large population of dissidents, was politically active, and this often lead to crackdowns from the military and camp directors. 
+                                Those who answered no to either or all of these questions, were declared disloyal. They were sent to the Tule Lake internment center, which served as a segregation center for 18,000 "Disloyals." Tule Lake, due to its large population of dissidents, was politically active, and this often lead to crackdowns from the military and camp directors. 
                         </p>
                         <p>
 
@@ -383,8 +383,8 @@ const FullpageWrapper = fullpageProps => (
                         <p>
                                     When families would return home, they would find that their homes were taken over by other people, vandalised, sold, or their possessions plundered. Their previous jobs were not returned to them on the basis of their Japanese ancestry, bosses telling them to stay home. Landlords were unwilling to provide housing to Japanese American families because they did not want any Japanese people to live with them.
                         </p>
-                        <p>
-                                    One daughter accounts how her dad took his own life because he was unable to get a job and provide for their family. Another mother remembers seeking taking the train to Chicago with her in search of a new home. However, after inquiring about rent from apartments with "For Rent" signs, she would be told that the place had already been rented, leaving her daughter and her, homeless in the city. Afterwards, the War Relocation Authority, who was in charge of helping the internees resettle, took her picture as an incentive picture to encourage other Japanese to come take the trip to Chicago as well. After the boys from the 442nd came back from serving, they would be denied haircuts even while they were still in uniform. "They wouldn’t give him a haircut because he was Japanese. But he wasn’t Japanese. He was a Japanese American soldier.”
+                         <p>
+                                One daughter accounts how her dad took his own life because he was unable to get a job and provide for their family. Another mother remembers taking the train to Chicago with her daughter in search of a new home. However, after inquiring about rent from apartments with "For Rent" signs, she would be told that the place had already been rented. She was forced to live homeless in the city with her daughter. Misleadingly, the War Relocation Authority, who was in charge of helping the internees resettle, ended up using her picture as an incentive picture to encourage other Japanese internees to come take the trip to Chicago to find a home. After the boys from the 442nd came back from serving, they would be denied haircuts even while they were still in uniform. "They wouldn’t give him a haircut because he was Japanese. But he wasn’t Japanese. He was a Japanese American soldier.”
                             </p>
                             <div class="audioitem">
                                 <Jplayer src='../../murasa_shot_at.wav' />
@@ -397,10 +397,10 @@ const FullpageWrapper = fullpageProps => (
                         <div className="grid_fighting">
                             <div className="item_text">
                                 <p>
-                                    The argument for national security in World War 2 that led to the internment of the Japanese American people has become the center stake in the "re-education" an estimated 1 million Uyghur people in China. Located in the Western region of China, the country has began implementing layers of surveillance, strict policies and concentration camps for the reported reduction of terrorism and ethnic unity of China. Given the ability of the central power in China to move as quickly as other countries in war time, they are able to move on any notion of fear without a fear of national backlash nor internal. Fuelling the support for their concentration camps with propaganda and surveillance, the government holds tight control on their public unity. Weaving together a deep state of surveillance, they are able to stop activism by keeping people in a great amount of fear of non government approved activities.
+                                    The argument for national security in World War 2 that led to the internment of the Japanese American people has become the center stake in the "re-education" of an estimated 1 million Uyghur people in China. Located in the Western region of China, the country has began implementing layers of surveillance, strict policies and concentration camps for the reported reduction of terrorism and ethnic unity of China. Given the ability of the central power in China to move as quickly as other countries in war time, they are able to move on any notion of fear without a fear of national nor internal backlash. Fuelling the support for their concentration camps with propaganda and surveillance, the government holds tight control on their public unity. Weaving together a deep state of surveillance, they are able to stop activism by keeping people in a great amount of fear of non government approved activities.
                                 </p>
                                 <p>
-                                    It feels all too similar, the concept of safety in the interior for the massive rights being taken away from a minority painted to be dangerous, left without the tools to defend themselves, wondering how they should act.
+                                    It feels all too similar, the concept of safety in the interior being used as rationale for the massive rights being taken away from a minority. The minority is painted to be dangerous, left without the tools to defend themselves, and wondering how they should act.
                                 </p>
                             </div>
                             <div className="uyghur_protest">
