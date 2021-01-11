@@ -420,7 +420,7 @@ const FullpageWrapper = fullpageProps => (
                     </div>
 
                     <div className="section fp-auto-height-responsive" id="end_section">
-                        <div className="jheader" >End.</div>
+                        <div className="jheader" >Epilogue</div>
                         <div className="grid_vertical">
                             <div className="center_solo_text">
 
